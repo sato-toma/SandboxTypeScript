@@ -1,0 +1,2 @@
+D:\ts\SandboxTypeScript\SampleTs\SampleTs\obj\Debug\SampleTs.njsprojAssemblyReference.cache
+D:\ts\SandboxTypeScript\SampleTs\SampleTs\bin\Microsoft.NodejsTools.WebRole.dll
