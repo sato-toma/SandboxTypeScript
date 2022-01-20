@@ -1,6 +1,6 @@
 .vs
 bin
 obj
-*.js
+SampleTs/*/*.js
 node_modules
 
